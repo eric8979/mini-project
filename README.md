@@ -1,3 +1,3 @@
-# Mini Projects
+# 🐍 Mini Python Projects
 
 🧑‍💻 Learning by coding
