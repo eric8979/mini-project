@@ -1,5 +1,4 @@
 import os
-import csv
 
 dataDir = os.path.join(os.getcwd() + "/data")
 dataFileList = os.listdir(dataDir)
