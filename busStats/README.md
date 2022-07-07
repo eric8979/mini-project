@@ -4,9 +4,25 @@ Bus Passenger Data by "Bus Route", "Bus Stop" and "Time". (By Month)
 
 * Only of Seoul +around area included.
 
+## Folder Description
+
+"zipData" directory is raw bus stats data to show what data was used in this project.
+
 ## Data Origin
 
 [Seoul Bus Data Link](http://data.seoul.go.kr/dataList/OA-12913/S/1/datasetView.do)
+
+## Dev Log
+
+* Found wrong formatting. Some comma were wrongly used.
+
+e.g) "750번(A,신촌,수색교~서울대)"
+
+The example above supposed to be single datum piece.
+
+* Found not all file is formatted the same. 
+
+Some files have double quotes and some aren't.
 
 ## Raw info
 
