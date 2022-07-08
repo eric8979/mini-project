@@ -1,4 +1,4 @@
-# Bus Passenger Data
+# 🚌 Bus Passenger Data
 
 Bus Passenger Data by "Bus Route", "Bus Stop" and "Time". (By Month)
 
@@ -6,9 +6,9 @@ Bus Passenger Data by "Bus Route", "Bus Stop" and "Time". (By Month)
 
 ## Folder Description
 
-* zipData/ : directory is raw bus stats data to show what data was used in this project.
+* zipData/ : Raw bus stats data to show what data was used in this project. Don't need to download this dir.
 
-* trimmedData/ : directory contains trimmed zipData.
+* trimmedData/ : Trimmed zipData.
 
 ## Data Origin
 

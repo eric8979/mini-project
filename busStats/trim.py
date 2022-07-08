@@ -13,7 +13,6 @@ datadqList = os.listdir(data_dq_Dir)
 
 # 사용년월, 노선번호, 노선명, 버스정류장ARS번호, 역명, 00시~23시승차총승객수
 # metadata (e.g. 사용년월, 노선번호, 역명...) couldn't be used due to wrongly formatted raw data
-# Should create trimmedData directory first!
 
 # Trim Data (without_dq) dataList
 for fileName in dataList:
