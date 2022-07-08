@@ -4,6 +4,8 @@ Bus Passenger Data by "Bus Route", "Bus Stop" and "Time". (By Month)
 
 * Only of Seoul +around area included.
 
+⚠️ This mini project is for practicing file modification and data formatting.
+
 ## Folder Description
 
 * zipData/ : Raw bus stats data to show what data was used in this project. Don't need to download this dir.
