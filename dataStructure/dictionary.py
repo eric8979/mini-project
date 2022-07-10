@@ -1,34 +1,3 @@
-# Python data structure note
-
-# List: dynamically sized array
-list = [12, "apple", False]
-
-
-# tuple: ordered, Unchangeable (, , ,)
-
-
-# set: unordered, unchangeable, unindexed {, , ,}
-
-
-# array is strict version of a list
-
-
-# String: immutable, new string constructed when changing the original
-string = "apple"
-
-
-# Dictionary (hash table)
-myDict = {
-    "jane": "233-4562",
-    "eric": "894-9450",
-    "peter": "654-8457",
-    32: 2423
-}
-keys = myDict.keys()
-print(keys)
-
-
-# Binary Search Tree
 class Node:
     def __init__(self, value):
         self.value = value
